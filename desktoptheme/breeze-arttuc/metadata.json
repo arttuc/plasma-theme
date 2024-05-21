@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "arttuc"
+            }
+        ],
+        "Category": "",
+        "Description": "Breeze with a thin outline around panels & dialogs and a 'Blue Ocean' inspired task manager style.",
+        "EnabledByDefault": true,
+        "Id": "breeze-arttuc",
+        "License": "LGPL",
+        "Name": "Arttu's Breeze Mod.",
+        "Version": "0.1.1",
+        "Website": "https://www.github.com/arttuc"
+    },
+    "X-Plasma-API": "5.0"
+}

@@ -14,6 +14,7 @@
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
@@ -27,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="32.24445"
-     inkscape:cx="17.972085"
-     inkscape:cy="14.529632"
+     inkscape:zoom="22.627417"
+     inkscape:cx="78.223688"
+     inkscape:cy="16.506524"
      inkscape:window-width="1920"
      inkscape:window-height="1060"
      inkscape:window-x="0"
@@ -56,30 +57,92 @@
   </sodipodi:namedview>
   <defs
      id="defs1">
+    <linearGradient
+       id="linearGradient11"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#27ae60;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#27ae60;stop-opacity:0;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#27ae60;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#27ae60;stop-opacity:0;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
     <style
        id="current-color-scheme"
-       type="text/css">
-
-      .ColorScheme-ButtonFocus {
-         color:#a64cff;
-      }
-      .ColorScheme-ButtonHover {
-         color:#843dcb;
-      }
-      .ColorScheme-Text {
-         color:#232629;
-      }
-      .ColorScheme-PositiveText {
-         color:#27ae60;
-      }
-      .ColorScheme-NeutralText {
-         color:#f67400;
-      }
-   </style>
+       type="text/css">.ColorScheme-ButtonFocus { color:#a64cff; }
+.ColorScheme-ButtonHover { color:#843dcb; }
+.ColorScheme-Text { color:#232629; }
+.ColorScheme-PositiveText { color:#27ae60; }
+.ColorScheme-NeutralText { color:#f67400; }
+</style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7"
+       id="linearGradient8"
+       x1="-19.00001"
+       y1="-14.5"
+       x2="-14.999998"
+       y2="-14.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2499977,0,0,0.7999968,35.749963,-5.4000502)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="linearGradient9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2499977,0,0,0.7999998,35.749963,-3.4000029)"
+       x1="-19.00001"
+       y1="-14.5"
+       x2="-14.999998"
+       y2="-14.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7"
+       id="linearGradient10"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2499977,0,0,0.2,-71.250029,14.4)"
+       x1="-19.00001"
+       y1="-14.5"
+       x2="-14.999998"
+       y2="-14.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="linearGradient12"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2499977,0,0,0.7999998,10.749957,1.5999959)"
+       x1="-19.00001"
+       y1="-14.5"
+       x2="-14.999998"
+       y2="-14.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7"
+       id="linearGradient13"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2499977,0,0,0.2,10.749959,-4.6000022)"
+       x1="-19.00001"
+       y1="-14.5"
+       x2="-14.999998"
+       y2="-14.5" />
   </defs>
   <g
      id="group-expander-bottom"
-     transform="matrix(1.2222222,0,0,1.2222222,-173,-99.777778)"
+     transform="matrix(1.2222222,0,0,1.2222222,-173.00001,-99.777778)"
      inkscape:label="group-expander-bottom">
     <path
        id="path4927"
@@ -88,7 +151,8 @@
     <path
        id="path4931"
        d="m 211.50001,89.818184 a 3.6818164,3.6818182 0 0 0 -3.68182,3.681818 3.6818164,3.6818182 0 0 0 3.68182,3.681818 3.6818164,3.6818182 0 0 0 3.68182,-3.681818 3.6818164,3.6818182 0 0 0 -3.68182,-3.681818 z"
-       fill="#2ecc71" />
+       fill="currentColor"
+       class="ColorScheme-NeutralText" />
     <path
        id="path4930"
        d="m 210.67561,91.045464 9.7e-4,1.630631 -1.63462,0.01145 0.007,1.626089 1.63908,0.0091 -0.006,1.634313 1.62575,-0.005 0.007,-1.631618 1.63976,-2.7e-5 v -1.632877 h -1.64636 l 0.0204,-1.642077 z"
@@ -108,7 +172,9 @@
     <path
        id="path4938"
        d="m 211.50001,89.818184 a 3.6818164,3.6818182 0 0 0 -3.68182,3.681818 3.6818164,3.6818182 0 0 0 3.68182,3.681818 3.6818164,3.6818182 0 0 0 3.68182,-3.681818 3.6818164,3.6818182 0 0 0 -3.68182,-3.681818 z"
-       fill="#2ecc71" />
+       fill="currentColor"
+       class="ColorScheme-NeutralText"
+       style="" />
     <path
        id="path4940"
        d="m 210.67561,91.045464 9.7e-4,1.630631 -1.63462,0.01145 0.007,1.626089 1.63908,0.0091 -0.006,1.634313 1.62575,-0.005 0.007,-1.631618 1.63976,-2.7e-5 v -1.632877 h -1.64636 l 0.0204,-1.642077 z"
@@ -128,7 +194,9 @@
     <path
        id="path4950"
        d="m 211.50001,89.818184 a 3.6818164,3.6818182 0 0 0 -3.68182,3.681818 3.6818164,3.6818182 0 0 0 3.68182,3.681818 3.6818164,3.6818182 0 0 0 3.68182,-3.681818 3.6818164,3.6818182 0 0 0 -3.68182,-3.681818 z"
-       fill="#2ecc71" />
+       fill="currentColor"
+       class="ColorScheme-NeutralText"
+       style="" />
     <path
        id="path4952"
        d="m 210.67561,91.045464 9.7e-4,1.630631 -1.63462,0.01145 0.007,1.626089 1.63908,0.0091 -0.006,1.634313 1.62575,-0.005 0.007,-1.631618 1.63976,-2.7e-5 v -1.632877 h -1.64636 l 0.0204,-1.642077 z"
@@ -149,7 +217,9 @@
     <path
        id="path4962"
        d="m 211.50001,89.818184 a 3.6818164,3.6818182 0 0 0 -3.68182,3.681818 3.6818164,3.6818182 0 0 0 3.68182,3.681818 3.6818164,3.6818182 0 0 0 3.68182,-3.681818 3.6818164,3.6818182 0 0 0 -3.68182,-3.681818 z"
-       fill="#2ecc71" />
+       fill="currentColor"
+       class="ColorScheme-NeutralText"
+       style="" />
     <path
        id="path4964"
        d="m 210.67561,91.045464 9.7e-4,1.630631 -1.63462,0.01145 0.007,1.626089 1.63908,0.0091 -0.006,1.634313 1.62575,-0.005 0.007,-1.631618 1.63976,-2.7e-5 v -1.632877 h -1.64636 l 0.0204,-1.642077 z"
@@ -161,10 +231,10 @@
   </g>
   <g
      id="hover-center"
-     transform="matrix(1.4999992,0,0,1.5,-7.4999862,14.999999)"
-     style="stroke-width:0.666668">
+     transform="matrix(0.50000169,0,0,0.49999886,9.4999718,27.000012)"
+     style="stroke-width:2">
     <rect
-       style="opacity:0.15;fill:currentColor"
+       style="opacity:0.15;fill:currentColor;stroke-width:2"
        class="ColorScheme-ButtonHover"
        id="rect46"
        width="4"
@@ -175,19 +245,19 @@
   </g>
   <g
      id="hover-top"
-     transform="matrix(1.4999993,0,0,1,-7.4999876,18.999999)"
-     style="stroke-width:0.816498">
+     transform="matrix(0.500002,0,0,1,9.4999714,18.999999)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.15;fill:currentColor"
+       style="opacity:0.15;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonHover"
        id="rect47"
        width="4"
-       height="2"
+       height="4.000001"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonHover"
        id="rect48"
        width="4.000001"
@@ -196,7 +266,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816497;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect49"
        width="4.000001"
        height="1.999999"
@@ -207,118 +277,115 @@
   <g
      id="hover-topright"
      transform="translate(7.0000087,18.999999)">
-    <path
-       id="path49"
-       style="opacity:0.15;fill:currentColor"
-       class="ColorScheme-ButtonHover"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path50"
-       style="fill:currentColor"
-       class="ColorScheme-ButtonHover"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect50"
-       width="4.9999928"
-       height="4.9985957"
-       x="14.999998"
+       width="6.9999995"
+       height="7"
+       x="12.99999"
        y="5.000001"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-1-9"
+       style="opacity:0.15;fill:currentColor"
+       class="  ColorScheme-ButtonHover"
+       d="m 17.999991,12.000001 a 5.0000001,5 0 0 0 -5,-5 v 5 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-9-3"
+       style="fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-ButtonHover"
+       d="m 17.999991,12.000001 a 5.0000001,5 0 0 0 -5,-5 v 1 a 4,3.9999999 0 0 1 4,4 z"
+       inkscape:label="out" />
   </g>
   <g
      id="hover-bottomright"
      transform="rotate(90,5.0000002,27)">
-    <path
-       id="path51"
-       style="opacity:0.15;fill:currentColor"
-       class="ColorScheme-ButtonHover"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path52"
-       style="fill:currentColor"
-       class="ColorScheme-ButtonHover"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect52"
-       width="5.0000024"
-       height="4.9985971"
-       x="14.999998"
+       width="7.0000005"
+       height="7"
+       x="13"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-1-4"
+       style="opacity:0.15;fill:currentColor"
+       class="  ColorScheme-ButtonHover"
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7.0000002 V 12 Z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-9-7"
+       style="fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-ButtonHover"
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7.0000002 v 1 A 4,3.9999999 0 0 1 17,12 Z"
+       inkscape:label="out" />
   </g>
   <g
      id="hover-bottomleft"
-     transform="rotate(180,14.500001,23.5)">
-    <path
-       id="path53"
-       style="opacity:0.15;fill:currentColor"
-       class="ColorScheme-ButtonHover"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path54"
-       style="fill:currentColor"
-       class="ColorScheme-ButtonHover"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
+     transform="rotate(180,14.500001,23.5)"
+     inkscape:label="">
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect54"
-       width="5.0000038"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="7"
+       x="13.000002"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-1-0"
+       style="opacity:0.15;fill:currentColor"
+       class="  ColorScheme-ButtonHover"
+       d="m 18.000002,12 a 5.0000001,5 0 0 0 -5,-5 v 5 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-9-6"
+       style="fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-ButtonHover"
+       d="m 18.000002,12 a 5.0000001,5 0 0 0 -5,-5 v 1 a 4,3.9999999 0 0 1 4,4 z"
+       inkscape:label="out" />
   </g>
   <g
      id="hover-topleft"
      transform="rotate(-90,24.000001,19.999999)">
-    <path
-       id="path55"
-       style="opacity:0.15;fill:currentColor"
-       class="ColorScheme-ButtonHover"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path56"
-       style="fill:currentColor"
-       class="ColorScheme-ButtonHover"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect56"
-       width="5.000001"
-       height="4.9985995"
-       x="14.999998"
+       width="6.999999"
+       height="7"
+       x="12.999999"
        y="4.9999981"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-1"
+       style="fill:currentColor;opacity:0.15"
+       class="  ColorScheme-ButtonHover"
+       d="m 18,11.999998 a 5.0000001,5 0 0 0 -5,-5 v 5 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-9"
+       style="fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-ButtonHover"
+       d="m 18,11.999998 a 5.0000001,5 0 0 0 -5,-5 v 0.9999999 a 4,3.9999999 0 0 1 4,4.0000001 z"
+       inkscape:label="out" />
   </g>
   <g
      id="hover-bottom"
-     transform="matrix(-1.499999,0,0,-1,43.499983,46.999999)"
-     style="stroke-width:0.816498">
+     transform="matrix(-0.50000163,0,0,-1,26.500028,46.999999)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.15;fill:currentColor"
+       style="opacity:0.15;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonHover"
        id="rect57"
        width="4"
-       height="2"
+       height="3.999999"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonHover"
        id="rect58"
        width="4.000001"
@@ -327,7 +394,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect59"
        width="4.000001"
        height="2.000001"
@@ -337,19 +404,19 @@
   </g>
   <g
      id="hover-right"
-     transform="matrix(0,1.5,-1,0,32,7.500009)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,0.49999886,-1,0,32,24.500021)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.15;fill:currentColor"
+       style="opacity:0.15;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonHover"
        id="rect60"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonHover"
        id="rect61"
        width="4.000001"
@@ -358,7 +425,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect62"
        width="4.000001"
        height="2"
@@ -368,19 +435,19 @@
   </g>
   <g
      id="hover-left"
-     transform="matrix(0,-1.5,1,0,4.0000025,58.499999)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,-0.49999886,1,0,4.0000025,41.499979)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.15;fill:currentColor"
+       style="opacity:0.15;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonHover"
        id="rect63"
        width="4"
-       height="2"
+       height="3.9999974"
        x="15.000001"
-       y="8"
+       y="7.9999995"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonHover"
        id="rect64"
        width="4.000001"
@@ -389,7 +456,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816495;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect65"
        width="4.000001"
        height="2.0000029"
@@ -450,10 +517,10 @@
        style="font-size:4px" /></text>
   <g
      id="focus-center"
-     transform="matrix(1.5,0,0,1.5,-7.4999904,-5.000001)"
-     style="stroke-width:0.666668">
+     transform="matrix(0.50000196,0,0,0.49999968,9.4999704,7.0000038)"
+     style="stroke-width:2">
     <rect
-       style="opacity:0.30;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:2.44949"
        class="ColorScheme-ButtonFocus"
        id="rect132"
        width="4"
@@ -464,19 +531,19 @@
   </g>
   <g
      id="focus-top"
-     transform="matrix(1.5,0,0,1,-7.4999904,-1.000001)"
-     style="stroke-width:0.816498">
+     transform="matrix(0.500002,0,0,1,9.4999704,-1.000001)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.30;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.73204"
        class="ColorScheme-ButtonFocus"
        id="rect133"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
-       y="8"
+       y="8.000001"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonFocus"
        id="rect134"
        width="4.000001"
@@ -485,7 +552,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816497;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect135"
        width="4.000001"
        height="1.999999"
@@ -496,118 +563,115 @@
   <g
      id="focus-topright"
      transform="translate(6.9999996,-1.000001)">
-    <path
-       id="path135"
-       style="opacity:0.30;fill:currentColor"
-       class="ColorScheme-ButtonFocus"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path136"
-       style="fill:currentColor"
-       class="ColorScheme-ButtonFocus"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect136"
-       width="5.0000019"
-       height="4.9999995"
-       x="14.999998"
+       width="6.9999995"
+       height="6.9999995"
+       x="13.000001"
        y="5.0000014"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-6"
+       style="fill:currentColor;opacity:0.3;"
+       class="ColorScheme-ButtonFocus "
+       d="m 18,12.000001 a 5.0000001,5 0 0 0 -5,-5 v 5 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-1"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-ButtonFocus "
+       d="m 18,12.000001 a 5.0000001,5 0 0 0 -5,-5 v 1 a 4,3.9999999 0 0 1 4,4 z"
+       inkscape:label="out" />
   </g>
   <g
      id="focus-bottomright"
      transform="rotate(90,15,17)">
-    <path
-       id="path137"
-       style="opacity:0.30;fill:currentColor"
-       class="ColorScheme-ButtonFocus"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path138"
-       style="fill:currentColor"
-       class="ColorScheme-ButtonFocus"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect138"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="7"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-2"
+       style="fill:currentColor;opacity:0.3;"
+       class="ColorScheme-ButtonFocus "
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7.0000001 V 12 Z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-8"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-ButtonFocus "
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7.0000001 V 8 a 4,3.9999999 0 0 1 4,4 z"
+       inkscape:label="out" />
   </g>
   <g
      id="focus-bottomleft"
      transform="rotate(180,14.5,13.5)">
-    <path
-       id="path139"
-       style="opacity:0.30;fill:currentColor"
-       class="ColorScheme-ButtonFocus"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path140"
-       style="fill:currentColor"
-       class="ColorScheme-ButtonFocus"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect140"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="7"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-3"
+       style="fill:currentColor;opacity:0.3;"
+       class="ColorScheme-ButtonFocus "
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7 v 5 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-7"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-ButtonFocus "
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7 v 1 a 4,3.9999999 0 0 1 4,4 z"
+       inkscape:label="out" />
   </g>
   <g
      id="focus-topleft"
-     transform="rotate(-90,14,10)">
-    <path
-       id="path141"
-       style="opacity:0.30;fill:currentColor"
-       class="ColorScheme-ButtonFocus"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path142"
-       style="fill:currentColor"
-       class="ColorScheme-ButtonFocus"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
+     transform="matrix(0,-1.3999995,1.4003928,0,1.9980361,31.99999)"
+     style="stroke-width:0.714186">
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.714184;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect142"
        width="5.000001"
        height="4.9985976"
        x="14.999998"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6"
+       style="fill:currentColor;opacity:0.3;"
+       class="ColorScheme-ButtonFocus "
+       d="M 18.571428,9.9985975 A 3.5714299,3.5704268 0 0 0 14.999998,6.4281707 V 9.9985975 Z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2"
+       style="fill-opacity:1;fill:currentColor;"
+       class="ColorScheme-ButtonFocus "
+       d="M 18.571428,9.9985975 A 3.5714299,3.5704268 0 0 0 14.999998,6.4281707 V 7.142256 a 2.8571439,2.8563414 0 0 1 2.857144,2.8563415 z"
+       inkscape:label="out" />
   </g>
   <g
      id="focus-bottom"
-     transform="matrix(-1.4999996,0,0,-1,43.499995,26.999999)"
-     style="stroke-width:0.816498">
+     transform="matrix(-0.500002,0,0,-1,26.500035,27)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.30;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.73204"
        class="ColorScheme-ButtonFocus"
        id="rect143"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonFocus"
        id="rect144"
        width="4.000001"
@@ -616,7 +680,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect145"
        width="4.000001"
        height="2.000001"
@@ -626,19 +690,19 @@
   </g>
   <g
      id="focus-right"
-     transform="matrix(0,1.5,-1,0,32,-12.500001)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,0.49999963,-1,0,32,4.5000061)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.30;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.73204"
        class="ColorScheme-ButtonFocus"
        id="rect146"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonFocus"
        id="rect147"
        width="4.000001"
@@ -647,7 +711,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect148"
        width="4.000001"
        height="2"
@@ -657,19 +721,19 @@
   </g>
   <g
      id="focus-left"
-     transform="matrix(0,-1.5,1,0,3.9999996,38.499999)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,-0.49999963,1,0,3.999999,21.499994)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.30;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.73204"
        class="ColorScheme-ButtonFocus"
        id="rect149"
        width="4"
-       height="2"
+       height="4.000001"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-ButtonFocus"
        id="rect150"
        width="4.000001"
@@ -678,7 +742,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect151"
        width="4.000001"
        height="2"
@@ -705,10 +769,10 @@
        style="font-size:4px" /></text>
   <g
      id="attention-center"
-     transform="matrix(1.5,0,0,1.5,-7.4999904,55)"
-     style="stroke-width:0.666668">
+     transform="matrix(0.50000196,0,0,0.50000041,9.4999704,66.999996)"
+     style="stroke-width:1.99999">
     <rect
-       style="opacity:0.3;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.99999"
        class="ColorScheme-NeutralText"
        id="rect183"
        width="4"
@@ -719,19 +783,19 @@
   </g>
   <g
      id="attention-top"
-     transform="matrix(1.5,0,0,1,-7.4999904,59)"
-     style="stroke-width:0.816498">
+     transform="matrix(0.500002,0,0,1,9.4999704,59)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.3;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-NeutralText"
        id="rect184"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-NeutralText"
        id="rect185"
        width="4.000001"
@@ -740,7 +804,7 @@
        y="6"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect186"
        width="4.000001"
        height="1"
@@ -751,118 +815,118 @@
   <g
      id="attention-topright"
      transform="translate(6.9999996,59)">
-    <path
-       id="path186"
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-NeutralText"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path187"
-       style="fill:currentColor"
-       class="ColorScheme-NeutralText"
-       inkscape:label="out"
-       d="M 15 6 L 15 7 L 15 7.3339844 L 15 8 C 16.107998 8 17 8.8920022 17 10 L 17.666016 10 L 18 10 L 19 10 C 19 7.7840045 17.215995 6 15 6 z " />
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect187"
-       width="5.0000019"
-       height="5.0000005"
-       x="14.999998"
+       width="6.9999995"
+       height="7"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-9-3"
+       style="stroke-width:1;fill:currentColor;opacity:0.3;"
+       class="  ColorScheme-NeutralText"
+       d="M 17,12 A 4.0000002,4.0000001 0 0 0 13,8 v 4 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-77-9"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor;"
+       class="  ColorScheme-NeutralText"
+       d="M 19,12 C 19,8.602252 16.386699,6 13,6 v 2 c 2.209139,0 4,1.790861 4,4 z"
+       inkscape:label="out"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      id="attention-bottomright"
      transform="rotate(90,-15,47)">
-    <path
-       id="path188"
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-NeutralText"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path189"
-       style="fill:currentColor"
-       class="ColorScheme-NeutralText"
-       inkscape:label="out"
-       d="M 15 8 C 16.107998 8 17 8.8920022 17 10 L 17.666016 10 L 18 10 L 19 10 C 19 7.7840045 17.215995 6 15 6 L 15 7 L 15 7.3339844 L 15 8 z " />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect189"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="7"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-9-4"
+       style="stroke-width:1;fill:currentColor;opacity:0.3;"
+       class="  ColorScheme-NeutralText"
+       d="M 17,12 A 4.0000002,4.0000001 0 0 0 13,8 v 4 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-77-8"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor;"
+       class="  ColorScheme-NeutralText"
+       d="M 19,12 C 19,8.6022524 16.386699,6 13,6 v 2 c 2.209139,0 4,1.790861 4,4 z"
+       inkscape:label="out"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      id="attention-bottomleft"
      transform="rotate(180,14.5,43.5)">
-    <path
-       id="path190"
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-NeutralText"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path191"
-       style="fill:currentColor"
-       class="ColorScheme-NeutralText"
-       inkscape:label="out"
-       d="M 19 10 C 19 7.7840045 17.215995 6 15 6 L 15 7 L 15 7.3339844 L 15 8 C 16.107998 8 17 8.8920022 17 10 L 17.666016 10 L 18 10 L 19 10 z " />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect191"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="7"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-9-6"
+       style="stroke-width:1;fill:currentColor;opacity:0.3;"
+       class="  ColorScheme-NeutralText"
+       d="m 17.000001,12 a 4.0000002,4.0000001 0 0 0 -4,-4 v 4 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-77-5"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor;"
+       class="  ColorScheme-NeutralText"
+       d="m 19.000001,12 c 0,-3.397748 -2.613301,-6 -6,-6 v 2 c 2.209139,0 4,1.790861 4,4 z"
+       inkscape:label="out"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      id="attention-topleft"
      transform="rotate(-90,44,40)">
-    <path
-       id="path192"
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-NeutralText"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path193"
-       style="fill:currentColor"
-       class="ColorScheme-NeutralText"
-       inkscape:label="out"
-       d="M 19 10 C 19 7.7840045 17.215995 6 15 6 L 15 7 L 15 7.3339844 L 15 8 C 16.107998 8 17 8.8920022 17 10 L 17.666016 10 L 18 10 L 19 10 z " />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect193"
-       width="5.000001"
-       height="4.9985976"
-       x="14.999998"
+       width="6.999999"
+       height="7"
+       x="12.999999"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-9"
+       style="stroke-width:1;fill:currentColor;opacity:0.3"
+       class="  ColorScheme-NeutralText"
+       d="M 17,12 A 4.0000002,4.0000001 0 0 0 13,7.9999999 V 12 Z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-77"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor"
+       class="  ColorScheme-NeutralText"
+       d="M 19,12 C 19,8.6022524 16.386699,6 13,6 v 1.9999999 c 2.209139,0 4,1.7908611 4,4.0000001 z"
+       inkscape:label="out"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <g
      id="attention-bottom"
-     transform="matrix(-1.5,0,0,-1,43.5,87)"
-     style="stroke-width:0.816498">
+     transform="matrix(-0.500002,0,0,-1,26.500035,87)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.3;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-NeutralText"
        id="rect194"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-NeutralText"
        id="rect195"
        width="4.000001"
@@ -871,7 +935,7 @@
        y="6"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect196"
        width="4.000001"
        height="1"
@@ -881,19 +945,19 @@
   </g>
   <g
      id="attention-right"
-     transform="matrix(0,1.5,-1,0,32,47.5)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,0.50000047,-1,0,32,64.499994)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.3;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-NeutralText"
        id="rect197"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-NeutralText"
        id="rect198"
        width="4.000001"
@@ -902,7 +966,7 @@
        y="6"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect199"
        width="4.000001"
        height="1"
@@ -912,19 +976,19 @@
   </g>
   <g
      id="attention-left"
-     transform="matrix(0,-1.5,1,0,3.9999996,98.5)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,-0.50000047,1,0,3.999999,81.500011)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.3;fill:currentColor"
+       style="opacity:0.3;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-NeutralText"
        id="rect200"
        width="4"
-       height="2"
+       height="4.000001"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-NeutralText"
        id="rect201"
        width="4.000001"
@@ -933,7 +997,7 @@
        y="6.0000005"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect202"
        width="4.000001"
        height="1.0000005"
@@ -955,41 +1019,23 @@
        id="tspan25">Progress</tspan></text>
   <g
      id="progress-center"
-     transform="matrix(1.5,0,0,1.5,-7.5000004,75)"
-     style="stroke-width:0.666668">
+     transform="matrix(0.50000196,0,0,0.50000053,9.4999671,86.999995)"
+     style="stroke-width:1.99999">
     <rect
-       style="opacity:0.3;fill:#17a516;fill-opacity:1;stroke:none;stroke-width:0.666666;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect183-2"
-       width="4"
-       height="4"
-       x="15"
-       y="10"
-       inkscape:label="bg" />
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.99999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect186-3-5"
+       width="4.0000014"
+       height="3.9999957"
+       x="15.000007"
+       y="9.9661538e-06"
+       inkscape:label="hint" />
   </g>
   <g
      id="progress-top"
-     transform="matrix(1.5,0,0,1,-7.5000004,79)"
-     style="stroke-width:0.816498">
+     transform="matrix(0.500002,0,0,1,9.4999671,79)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-PositiveText"
-       id="rect184-0"
-       width="4"
-       height="2"
-       x="15.000001"
-       y="8"
-       inkscape:label="bg" />
-    <rect
-       style="fill:currentColor"
-       class="ColorScheme-PositiveText"
-       id="rect185-9"
-       width="4.000001"
-       height="1"
-       x="15"
-       y="7"
-       inkscape:label="out" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816498;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect186-3"
        width="4.000001"
        height="2"
@@ -999,119 +1045,142 @@
   </g>
   <g
      id="progress-topright"
-     transform="translate(6.9999896,79)">
-    <path
-       id="path186-0"
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-PositiveText"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path187-6"
-       style="fill:currentColor"
-       class="ColorScheme-PositiveText"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
+     transform="matrix(0.28571429,0,0,0.28571429,16.285712,82.571429)"
+     style="stroke-width:3.5">
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:3.49999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect187-2"
-       width="5.0000019"
-       height="5.0000005"
-       x="14.999998"
-       y="5"
+       width="24.499998"
+       height="6.9999986"
+       x="13.00001"
+       y="4.9999995"
        inkscape:label="hint" />
   </g>
   <g
      id="progress-bottomright"
      transform="rotate(90,-25,57)">
-    <path
-       id="path188-1"
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-PositiveText"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path189-8"
-       style="fill:currentColor"
-       class="ColorScheme-PositiveText"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect189-7"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="12.000001"
+       height="7"
+       x="8.000001"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-3-5-4"
+       style="fill:currentColor;opacity:0.3;"
+       class="  ColorScheme-PositiveText"
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7 v 5 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-7-0-4"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor;"
+       class="  ColorScheme-PositiveText"
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7 v 1 a 4,3.9999999 0 0 1 4,4 z"
+       inkscape:label="out" />
+    <rect
+       style="stroke-width:0.999999;fill:url(#linearGradient12);opacity:0.3;"
+       class="ColorScheme-PositiveText"
+       id="rect194-2-8-9-6"
+       width="5.0000057"
+       height="3.999999"
+       x="-13.000011"
+       y="-12.000001"
+       inkscape:label="bg-fade"
+       transform="scale(-1)" />
+    <rect
+       style="stroke-width:0.999997;fill:url(#linearGradient13);"
+       class="ColorScheme-PositiveText"
+       id="rect194-2-8-3-2"
+       width="5.0000057"
+       height="1"
+       x="-13.000011"
+       y="-8.0000019"
+       inkscape:label="out-fade"
+       transform="scale(-1)" />
   </g>
   <g
      id="progress-bottomleft"
      transform="rotate(180,14.5,53.5)">
-    <path
-       id="path190-2"
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-PositiveText"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path191-0"
-       style="fill:currentColor"
-       class="ColorScheme-PositiveText"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect191-2"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="12"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-3-5"
+       style="fill:currentColor;opacity:0.3"
+       class="  ColorScheme-PositiveText"
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7 v 5 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-7-0"
+       style="stroke-width:1;fill-opacity:1;fill:currentColor"
+       class="  ColorScheme-PositiveText"
+       d="M 18,12 A 5.0000001,5 0 0 0 13,7 v 1 a 4,3.9999999 0 0 1 4,4 z"
+       inkscape:label="out" />
+    <rect
+       style="stroke-width:0.999999;fill:url(#linearGradient9);opacity:0.3;"
+       class="ColorScheme-PositiveText"
+       id="rect194-2-8-9"
+       width="5.0000057"
+       height="3.999999"
+       x="11.999994"
+       y="-17"
+       inkscape:label="bg-fade"
+       transform="rotate(90)" />
+    <rect
+       style="stroke-width:0.999997;fill:url(#linearGradient10);opacity:1;"
+       class="ColorScheme-PositiveText"
+       id="rect194-2-8-3"
+       width="5.0000057"
+       height="1"
+       x="-95"
+       y="11"
+       inkscape:label="out-fade"
+       transform="rotate(90,-39,68)" />
   </g>
   <g
      id="progress-topleft"
      transform="rotate(-90,53.999995,50.000005)">
-    <path
-       id="path192-7"
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-PositiveText"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path193-5"
-       style="fill:currentColor"
-       class="ColorScheme-PositiveText"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect193-9"
-       width="5.000001"
-       height="4.9985976"
-       x="14.999998"
-       y="5"
+       width="1.9999986"
+       height="7"
+       x="18"
+       y="5.00001"
        inkscape:label="hint" />
   </g>
   <g
      id="progress-bottom"
-     transform="matrix(-1.5,0,0,-1,43.5,107)"
-     style="stroke-width:0.816498">
+     transform="matrix(-0.500002,0,0,-1,26.500035,107)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.3;fill:currentColor"
+       style="fill:currentColor;opacity:0.3;"
        class="ColorScheme-PositiveText"
        id="rect194-2"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="fill:currentColor"
+       style="opacity:0.3;fill:url(#linearGradient8);stroke-width:1.41421"
+       class="ColorScheme-PositiveText"
+       id="rect194-2-8"
+       width="5.0000057"
+       height="3.999984"
+       x="11.999994"
+       y="-18.999996"
+       inkscape:label="bg-fade"
+       transform="rotate(90)" />
+    <rect
+       style="fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-PositiveText"
        id="rect195-8"
        width="4.000001"
@@ -1120,82 +1189,46 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect196-9"
        width="4.000001"
-       height="2"
+       height="12"
        x="14.999999"
        y="5"
        inkscape:label="hint" />
   </g>
   <g
      id="progress-right"
-     transform="matrix(0,1.5,-1,0,32,67.5)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,0.50000059,-1,0,32,79.499992)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-PositiveText"
-       id="rect197-3"
-       width="4"
-       height="2"
-       x="15.000001"
-       y="8"
-       inkscape:label="bg" />
-    <rect
-       style="fill:currentColor"
-       class="ColorScheme-PositiveText"
-       id="rect198-6"
-       width="4.000001"
-       height="1"
-       x="15"
-       y="7"
-       inkscape:label="out" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect199-1"
        width="4.000001"
-       height="2"
+       height="7"
        x="14.999999"
        y="5"
        inkscape:label="hint" />
   </g>
   <g
      id="progress-left"
-     transform="matrix(0,-1.5,1,0,3.9999896,118.5)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,-0.50000059,1,0,3.99999,101.50001)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.3;fill:currentColor"
-       class="ColorScheme-PositiveText"
-       id="rect200-9"
-       width="4"
-       height="2"
-       x="15.000001"
-       y="8"
-       inkscape:label="bg" />
-    <rect
-       style="fill:currentColor"
-       class="ColorScheme-PositiveText"
-       id="rect201-3"
-       width="4.000001"
-       height="1"
-       x="15"
-       y="7"
-       inkscape:label="out" />
-    <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect202-1"
        width="4.000001"
-       height="2"
-       x="14.999999"
+       height="7.00001"
+       x="24.99999"
        y="5"
        inkscape:label="hint" />
   </g>
   <g
      id="normal-center"
-     transform="matrix(1.5,0,0,1.5,-7.5000004,35)"
-     style="stroke-width:0.666668">
+     transform="matrix(0.50000196,0,0,0.50000028,9.4999671,46.999997)"
+     style="stroke-width:1.99999">
     <rect
-       style="opacity:0.08;fill:currentColor"
+       style="opacity:0.08;fill:currentColor;stroke-width:1.99999"
        class="ColorScheme-Text"
        id="rect1"
        width="4"
@@ -1206,19 +1239,19 @@
   </g>
   <g
      id="normal-top"
-     transform="matrix(1.5,0,0,1,-7.5000004,39)"
-     style="stroke-width:0.816498">
+     transform="matrix(0.500002,0,0,1,9.4999671,39)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.08;fill:currentColor"
+       style="opacity:0.08;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-Text"
        id="rect2"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="opacity:0.2;fill:currentColor"
+       style="opacity:0.2;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-Text"
        id="rect3"
        width="4.000001"
@@ -1227,7 +1260,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816498;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect4"
        width="4.000001"
        height="2"
@@ -1238,118 +1271,115 @@
   <g
      id="normal-topright"
      transform="translate(6.9999896,39)">
-    <path
-       id="path4"
-       style="opacity:0.08;fill:currentColor"
-       class="ColorScheme-Text"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path5"
-       style="opacity:0.2;fill:currentColor"
-       class="ColorScheme-Text"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect5"
-       width="5.0000019"
-       height="5.0000005"
-       x="14.999998"
+       width="6.9999895"
+       height="7"
+       x="13.00001"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3137-7"
+       style="fill:currentColor;opacity:0.08;"
+       class="  ColorScheme-Text"
+       d="m 17.00001,12 a 4.0000001,4 0 0 0 -4,-4 v 4 z"
+       inkscape:label="bg" />
+    <path
+       id="path3138-7"
+       style="fill:currentColor;opacity:0.2;"
+       d="m 18.00001,12 a 5.0000001,5 0 0 0 -5,-5 v 1 a 4,3.9999999 0 0 1 4,4 z"
+       inkscape:label="out"
+       class="ColorScheme-Text" />
   </g>
   <g
      id="normal-bottomright"
      transform="rotate(90,-5.0000002,37)">
-    <path
-       id="path6"
-       style="opacity:0.08;fill:currentColor"
-       class="ColorScheme-Text"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path7"
-       style="opacity:0.2;fill:currentColor"
-       class="ColorScheme-Text"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect7"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="7"
+       x="13"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3137-4"
+       style="fill:currentColor;opacity:0.08;"
+       class="  ColorScheme-Text"
+       d="M 17,12 A 4.0000001,4 0 0 0 13,7.9999999 V 12 Z"
+       inkscape:label="bg" />
+    <path
+       id="path3138-9"
+       style="fill:currentColor;opacity:0.2;"
+       d="M 18,12 A 5.0000001,5 0 0 0 13,6.9999999 v 1 A 4,3.9999999 0 0 1 17,12 Z"
+       inkscape:label="out"
+       class="ColorScheme-Text" />
   </g>
   <g
      id="normal-bottomleft"
-     transform="rotate(180,14.5,33.5)">
-    <path
-       id="path8"
-       style="opacity:0.08;fill:currentColor"
-       class="ColorScheme-Text"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path9"
-       style="opacity:0.2;fill:currentColor"
-       class="ColorScheme-Text"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
+     transform="rotate(180,14.499997,33.500002)"
+     style="opacity:1;">
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
-       id="rect9"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       id="rect166"
+       width="6.999999"
+       height="7.00001"
+       x="12.999999"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3137"
+       style="fill:currentColor;opacity:0.08;"
+       class="  ColorScheme-Text"
+       d="m 17,12.00001 a 4.0000001,4 0 0 0 -4,-4 v 4 z"
+       inkscape:label="bg" />
+    <path
+       id="path3138"
+       style="fill:currentColor;opacity:0.2;"
+       d="m 18,12.00001 a 5.0000001,5 0 0 0 -5,-5 v 0.9999999 a 4,3.9999999 0 0 1 4,4.0000001 z"
+       inkscape:label="out"
+       class="ColorScheme-Text" />
   </g>
   <g
      id="normal-topleft"
      transform="rotate(-90,33.999995,30.000005)">
-    <path
-       id="path10"
-       style="opacity:0.08;fill:currentColor"
-       class="ColorScheme-Text"
-       inkscape:label="bg"
-       d="m 15,8 c 1.108,0 2,0.892 2,2 h -2 z"
-       sodipodi:nodetypes="cccc" />
-    <path
-       id="path11"
-       style="opacity:0.2;fill:currentColor"
-       class="ColorScheme-Text"
-       inkscape:label="out"
-       d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect11"
-       width="5.000001"
-       height="4.9985976"
-       x="14.999998"
+       width="6.999999"
+       height="7.00001"
+       x="12.999999"
        y="5"
        inkscape:label="hint" />
+    <path
+       id="path3133-6-1-2"
+       style="stroke-width:1;fill:currentColor;opacity:0.08;"
+       class="  ColorScheme-Text"
+       d="m 17,12.00001 a 4.0000001,4 0 0 0 -4,-4 v 4 z"
+       inkscape:label="bg" />
+    <path
+       id="path3135-2-9-5"
+       style="fill:currentColor;fill-opacity:1;opacity:0.2"
+       d="m 18,12.00001 a 5.0000001,5 0 0 0 -5,-5 v 0.9999999 a 4,3.9999999 0 0 1 4,4.0000001 z"
+       inkscape:label="out"
+       class="ColorScheme-Text" />
   </g>
   <g
      id="normal-bottom"
-     transform="matrix(-1.5,0,0,-1,43.5,67)"
-     style="stroke-width:0.816498">
+     transform="matrix(-0.500002,0,0,-1,26.500035,67)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.08;fill:currentColor"
+       style="opacity:0.08;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-Text"
        id="rect12"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="opacity:0.2;fill:currentColor"
+       style="opacity:0.2;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-Text"
        id="rect13"
        width="4.000001"
@@ -1358,7 +1388,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect14"
        width="4.000001"
        height="2"
@@ -1368,19 +1398,19 @@
   </g>
   <g
      id="normal-right"
-     transform="matrix(0,1.5,-1,0,32,27.5)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,0.50000034,-1,0,32,44.499996)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.08;fill:currentColor"
+       style="opacity:0.08;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-Text"
        id="rect15"
        width="4"
-       height="2"
+       height="4"
        x="15.000001"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="opacity:0.2;fill:currentColor"
+       style="opacity:0.2;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-Text"
        id="rect16"
        width="4.000001"
@@ -1389,7 +1419,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect17"
        width="4.000001"
        height="2"
@@ -1399,19 +1429,19 @@
   </g>
   <g
      id="normal-left"
-     transform="matrix(0,-1.5,1,0,3.9999896,78.5)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,-0.50000034,1,0,3.99999,61.500008)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:0.08;fill:currentColor"
+       style="opacity:0.08;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-Text"
        id="rect18"
        width="4"
-       height="2"
-       x="15.000001"
+       height="4.00001"
+       x="15"
        y="8"
        inkscape:label="bg" />
     <rect
-       style="opacity:0.2;fill:currentColor"
+       style="opacity:0.2;fill:currentColor;stroke-width:1.41421"
        class="ColorScheme-Text"
        id="rect19"
        width="4.000001"
@@ -1420,7 +1450,7 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect20"
        width="4.000001"
        height="2"
@@ -1435,7 +1465,7 @@
      height="2"
      x="17"
      y="4"
-     inkscape:label="" />
+     inkscape:label="Top Margin" />
   <rect
      style="opacity:1;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:1.00157;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
      id="normal-hint-bottom-margin"
@@ -1443,23 +1473,23 @@
      height="2"
      x="17"
      y="19.999998"
-     inkscape:label="" />
+     inkscape:label="Bottom Margin" />
   <rect
      style="opacity:1;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:0.867385;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
      id="normal-hint-left-margin"
-     width="3"
+     width="2.999999"
      height="2"
      x="9"
      y="12"
-     inkscape:label="" />
+     inkscape:label="Left Margin" />
   <rect
      style="opacity:1;fill:#4e9a06;fill-opacity:1;stroke:none;stroke-width:0.867385;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;paint-order:markers fill stroke"
      id="normal-hint-right-margin"
-     width="3.0000029"
+     width="3.000001"
      height="2"
      x="24"
      y="12"
-     inkscape:label="" />
+     inkscape:label="Right Margin" />
   <text
      xml:space="preserve"
      style="font-size:4px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
@@ -1484,10 +1514,10 @@
        id="tspan51" /></text>
   <g
      id="minimized-center"
-     transform="matrix(1.5,0,0,1.5,-7.4999904,95)"
-     style="stroke-width:0.666668">
+     transform="matrix(0.50000196,0,0,0.50000066,9.4999704,106.99999)"
+     style="stroke-width:1.99999">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.666666;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.99999;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect27"
        width="4"
        height="4"
@@ -1497,10 +1527,10 @@
   </g>
   <g
      id="minimized-top"
-     transform="matrix(1.5,0,0,1,-7.4999904,99)"
-     style="stroke-width:0.816498">
+     transform="matrix(0.500002,0,0,1,9.4999704,99)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.816498;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect29"
        width="4.000001"
        height="1"
@@ -1508,10 +1538,10 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816498;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41422;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect30"
        width="4.000001"
-       height="5"
+       height="7"
        x="14.999999"
        y="5"
        inkscape:label="hint" />
@@ -1527,9 +1557,9 @@
     <rect
        style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect31"
-       width="5.0000019"
-       height="5.0000005"
-       x="14.999998"
+       width="6.9999995"
+       height="7"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
   </g>
@@ -1542,11 +1572,11 @@
        inkscape:label="out"
        d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect33"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="7"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
   </g>
@@ -1559,11 +1589,11 @@
        inkscape:label="out"
        d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999996;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect35"
-       width="5.0000019"
-       height="4.9985967"
-       x="14.999998"
+       width="7"
+       height="7"
+       x="13.000001"
        y="5"
        inkscape:label="hint" />
   </g>
@@ -1576,20 +1606,20 @@
        inkscape:label="out"
        d="m 15,7 v 1 c 1.107999,0 2,0.8920011 2,2 h 1 C 18,8.3380017 16.661998,7 15,7 Z" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999997;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect37"
-       width="5.000001"
-       height="4.9985976"
-       x="14.999998"
+       width="6.999999"
+       height="7"
+       x="12.999999"
        y="5"
        inkscape:label="hint" />
   </g>
   <g
      id="minimized-bottom"
-     transform="matrix(-1.5,0,0,-1,43.5,127)"
-     style="stroke-width:0.816498">
+     transform="matrix(-0.500002,0,0,-1,26.500035,127)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.816498;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect39"
        width="4.000001"
        height="1"
@@ -1597,20 +1627,20 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41422;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect40"
        width="4.000001"
-       height="5"
+       height="7"
        x="14.999999"
        y="5"
        inkscape:label="hint" />
   </g>
   <g
      id="minimized-right"
-     transform="matrix(0,1.5,-1,0,32,87.5)"
-     style="stroke-width:0.816496">
+     transform="matrix(0,0.50000072,-1,0,32,104.49999)"
+     style="stroke-width:1.41421">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect42"
        width="4.000001"
        height="1"
@@ -1618,21 +1648,21 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect43"
        width="4.000001"
-       height="5.00001"
+       height="7"
        x="14.999999"
        y="5"
        inkscape:label="hint" />
   </g>
   <g
      id="minimized-left"
-     transform="matrix(0,-1.5,1,0,3.9999996,138.5)"
-     style="stroke-width:0.816496"
+     transform="matrix(0,-0.50000072,1,0,3.999999,121.50002)"
+     style="stroke-width:1.41421"
      inkscape:label="minimized-left">
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.816496;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:1.41421;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect45"
        width="4.000001"
        height="1"
@@ -1640,10 +1670,10 @@
        y="7"
        inkscape:label="out" />
     <rect
-       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.816495;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:1.41422;stroke-linejoin:bevel;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect51"
        width="4.000001"
-       height="5"
+       height="7.000001"
        x="14.999999"
        y="5"
        inkscape:label="hint" />

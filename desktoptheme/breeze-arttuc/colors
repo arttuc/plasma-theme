@@ -32,20 +32,6 @@ ForegroundNormal=232,232,232
 ForegroundPositive=65,189,96
 ForegroundVisited=198,141,255
 
-[Colors:Complementary]
-BackgroundAlternate=28,28,37
-BackgroundNormal=32,32,42
-DecorationFocus=166,76,255
-DecorationHover=132,61,203
-ForegroundActive=69,150,255
-ForegroundInactive=170,170,170
-ForegroundLink=166,76,255
-ForegroundNegative=214,60,60
-ForegroundNeutral=235,118,0
-ForegroundNormal=232,232,232
-ForegroundPositive=65,189,96
-ForegroundVisited=198,141,255
-
 [Colors:Selection]
 BackgroundAlternate=132,61,203
 BackgroundNormal=166,76,255
@@ -61,8 +47,8 @@ ForegroundPositive=0,107,0
 ForegroundVisited=80,61,100
 
 [Colors:Tooltip]
-BackgroundAlternate=16,16,21
-BackgroundNormal=22,22,29
+BackgroundAlternate=12,12,16
+BackgroundNormal=12,12,16
 DecorationFocus=166,76,255
 DecorationHover=132,61,203
 ForegroundActive=69,150,255
@@ -89,8 +75,8 @@ ForegroundPositive=65,189,96
 ForegroundVisited=198,141,255
 
 [Colors:Window]
-BackgroundAlternate=16,16,21
-BackgroundNormal=22,22,29
+BackgroundAlternate=12,12,16
+BackgroundNormal=12,12,16
 DecorationFocus=166,76,255
 DecorationHover=132,61,203
 ForegroundActive=69,150,255
@@ -103,15 +89,4 @@ ForegroundPositive=65,189,96
 ForegroundVisited=198,141,255
 
 [General]
-Name=Arttu's Dark Theme
 shadeSortColumn=true
-accentActiveTitlebar=false
-accentInactiveTitlebar=false
-
-[WM]
-activeBackground=12,12,16
-inactiveBackground=12,12,16
-activeBlend=232,232,232
-inactiveBlend=120,120,120
-activeForeground=232,232,232
-inactiveForeground=120,120,120

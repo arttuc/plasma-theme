@@ -109,8 +109,8 @@ accentActiveTitlebar=false
 accentInactiveTitlebar=false
 
 [WM]
-activeBackground=12,12,16
-inactiveBackground=12,12,16
+activeBackground=16,16,21
+inactiveBackground=16,16,21
 activeBlend=232,232,232
 inactiveBlend=120,120,120
 activeForeground=232,232,232
